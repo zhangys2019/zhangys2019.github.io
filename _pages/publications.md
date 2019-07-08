@@ -8,7 +8,7 @@ author_profile: true
 ---
 ------
 
-## Journal Papers:
+## Journal Papers
 (# equal contribution, * corresponding author)
 
 2019
