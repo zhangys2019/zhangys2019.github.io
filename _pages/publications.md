@@ -9,8 +9,7 @@ author_profile: true
 ------
 
 ## Journal Papers
-(# equal contribution, * corresponding author)
-- https://scholar.google.com/citations?user=0m6nHjYAAAAJ&hl=zh-CN&oi=ao
+(#equal contribution, * corresponding author)
 
 2019
 ------
