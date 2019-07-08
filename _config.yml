@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZHANG Yangsong(张杨松)"
+title                    : "ZHANG Yangsong"
 title_separator          : "-"
 name                     : &name "ZHANG Yangsong"
 description              : &description "My personal description"
