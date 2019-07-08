@@ -2,10 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-    
- - title: "News"
-    url: /NEws/  
-    
+ 
   - title: "Talks"
     url: /talks/    
 
