@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "Projects and Funding"
 author_profile: true
 redirect_from: 
   - /md/
