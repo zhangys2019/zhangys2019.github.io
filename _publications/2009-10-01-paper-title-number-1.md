@@ -1,16 +1,18 @@
 ---
-title: "Multiple frequencies sequential coding for SSVEP-based brain-computer interface Y Zhang, P Xu, T Liu, J Hu, R Zhang, D Yao PloS one 7 (3), e29519
-"
+title: "Test Accounts: An Introduction"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publications/2009-10-01-test-accts-intro
+venue: "Testing Studies"
+excerpt: 'This paper is about testing.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: http://academicpages.github.io/files/paper1.pdf
+citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
 ---
 
+## Abstract
+You can put the full text of the paper in this markdown file. The journal, date, citation, and paperurl will populate automatically based on the YAML variables, and then the text below (this text) will be displayed.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+## Introduction
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+## References
