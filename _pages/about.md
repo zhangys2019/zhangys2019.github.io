@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "ZHANG Yangsong"
+excerpt: "ZHANG Yangsong(张杨松)"
 author_profile: true
 redirect_from: 
   - /about/
