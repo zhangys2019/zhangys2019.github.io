@@ -8,7 +8,7 @@ redirect_from:
 
 
 ### Brain Computer Interfaces & Brain Machine Interfaces 
-------(paradigm, algorithms, applications)
+(paradigm, algorithms, applications)
 
 -Yangsong Zhang, Peng Xu, Tiejun Liu, Jun Hu, Rui Zhang, Dezhong Yao.Multiple frequencies sequential coding for SSVEP-based brain-computer interface.PloS one,2013,7(3), e29519.
 -Yangsong Zhang, Peng Xu, Kaiwen Cheng, Dezhong Yao*. Multivariate Synchronization Index for Frequency Recognition of SSVEP-based Brain-computer Interface. Journal of Neuroscience Methods, 2014, 221:32–40. 
