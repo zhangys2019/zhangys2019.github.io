@@ -55,9 +55,6 @@ author_profile: true
 20、Daqing Guo*，Mingming Chen, Matjaz Perc, Shengdun Wu, Chuan Xia, Yangsong Zhang, Peng Xu, Yang Xia, Dezhong Yao. Firing regulation of fast-spiking interneurons by autaptic inhibition. EPL, 2016, 114(3):30001. 
 
 
-</details>
-
-
-Conference Papers:
+## Conference Papers
 ------
 
