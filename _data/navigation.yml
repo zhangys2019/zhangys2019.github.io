@@ -1,14 +1,15 @@
 # main links links
 main:
+
+  - title: "Research"
+    url: /Research/    
+
   - title: "Team"
     url: /Team/    
     
   - title: "Publications"
     url: /publications/
  
-  - title: "Research"
-    url: /Research/    
-    
   - title: "Activities"
     url: /activities/
         
