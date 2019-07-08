@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number asdfsdfsdf"
+title: "Paper Title Numbedfsfs dfsdfdsr asdfsdfsdf"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2010-10-01-paper-title-number-4
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
