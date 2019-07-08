@@ -15,7 +15,7 @@ redirect_from:
 
 ### Machine learning and Deep learning
 - Yangsong Zhang#, Erwei Yin#, Fali Li, Yu Zhang, Toshihisa Tanaka, Qibin Zhao, Yan Cui, Peng Xu, Dezhong Yao, Daqing Guo*. Two-stage frequency recognition method based on correlated component analysis for SSVEP-based BCI. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(7): 1314-1323. 
-- PeiYang Li, Huan Liu, Yajing Si, Cunbo Li, Fali Li, Xuyang Zhu, Xiaoye Huang, Ying Zeng, Dezhong Yao, Yangsong Zhang, Peng Xu. EEG based emotion recognition by combining functional connectivity network and local activations. IEEE Transactions on Biomedical Engineering, 2019, DOI: 10.1109/TBME.2019.2897651.
+- PeiYang Li, Huan Liu, Yajing Si, Cunbo Li, Fali Li, Xuyang Zhu, Xiaoye Huang, Ying Zeng, Dezhong Yao, Yangsong Zhang*, Peng Xu*. EEG based emotion recognition by combining functional connectivity network and local activations. IEEE Transactions on Biomedical Engineering, 2019, DOI: 10.1109/TBME.2019.2897651.
 
 ### Brain network analysis
 
