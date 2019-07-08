@@ -1,6 +1,6 @@
 ---
-permalink: /services/
-title: "Professional Activities"
+permalink: /Research/
+title: "Research Areas"
 author_profile: true
 redirect_from: 
   - /md/
