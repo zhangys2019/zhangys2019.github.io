@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Multiple frequencies sequential coding for SSVEP-based brain-computer interface
+Y Zhang, P Xu, T Liu, J Hu, R Zhang, D Yao
+PloS one 7 (3), e29519
