@@ -9,6 +9,7 @@ author_profile: true
 Journal Papers:
 ------
 (# equal contribution, * corresponding author)
+<details><summary>more</summary>
 1、Yangsong Zhang, Erwei Yin, Fali Li, Yu Zhang, Daqing Guo, Dezhong Yao, Peng Xu.. Hierarchical feature fusion framework for frequency recognition in SSVEP-based BCIs. Neural Networks, 2019, accepted. 
 
 2、Tiejun Liu, Yangsong Zhang*, Lu Wang, Jianfu Li, Peng Xu, Dezhong Yao.Fusing canonical coefficients for Frequency recognition in SSVEP-based BCI. IEEE Access, 2019, 7, 52467 - 52472. 
@@ -49,5 +50,5 @@ Journal Papers:
 
 20、Daqing Guo*，Mingming Chen, Matjaz Perc, Shengdun Wu, Chuan Xia, Yangsong Zhang, Peng Xu, Yang Xia, Dezhong Yao. Firing regulation of fast-spiking interneurons by autaptic inhibition. EPL, 2016, 114(3):30001. 
 
-<details><summary>more</summary>
+
 </details>
