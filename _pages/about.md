@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ------
-ZHANG Yangsong received the Ph.D. degree (Supervisors: [Prof. YAO Dezhong](http://www.neuro.uestc.edu.cn/bci/member/yao/yao.html/)) in signal and information processing from the School of Life Science and Technology, University of Electronic Science and Technology of China(UESTC), in 2013. From October 2016-October 2018, I was a part-time Postdoctoral Fellow (supervisors: Prof. YAO Dezhong) at School of Life Science and Technology, UESTC. Since February 2019, I have been working as a Postdoctoral Fellow at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore(Supervisors: [Prof. GUAN Cuntai](https://www.ntu.edu.sg/home/ctguan/), IEEE Fellow).
+ZHANG Yangsong received the Ph.D. degree (Supervisors: [Prof. YAO Dezhong](http://www.neuro.uestc.edu.cn/bci/member/yao/yao.html/)) in signal and information processing from the School of Life Science and Technology, University of Electronic Science and Technology of China(UESTC), in 2013. From October 2016-October 2018, I was a part-time Postdoctoral Fellow (supervisors: Prof. YAO Dezhong) at School of Life Science and Technology, UESTC. Since February 2019, I have been working as a Postdoctoral Fellow at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore (Supervisors: [Prof. GUAN Cuntai](https://www.ntu.edu.sg/home/ctguan/), IEEE Fellow). Since 2015, he has been an Associate Professor with the School of Computer Science and Technology, Southwest University of Science and Technology(SWUST), China. 
 
-Since 2015, he has been an Associate Professor with the School of Computer Science and Technology, Southwest University of Science and Technology(SWUST), China. His research interests include  Machine learning and Deep learning, brain–computer interface (BCI), Biomedical Signal Processing, and brain network analysis.
+His research interests are in the fields of  Machine learning and Deep learning, brain–computer interface (BCI), Biomedical Signal Processing, and brain network analysis, etc.
              
 
 
