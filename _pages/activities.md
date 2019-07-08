@@ -6,7 +6,7 @@ redirect_from:
   - /md/
 ---
 
-# Serve as Reviewer for Journals:
+### Serve as Reviewer for Journals
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
 - IEEE Transactions on Biomedical Engineering
 - Neural Networks
@@ -18,5 +18,5 @@ redirect_from:
 - Biomedical Signal Processing and Control
 
 
-# Guest Editor:
+### Guest Editor:
 - A special issue of Sensors (ISSN 1424-8220) Special Issue "Novel Approaches to EEG Signal Processing": https://www.mdpi.com/journal/sensors/special_issues/ EEGsignal
