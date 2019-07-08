@@ -10,7 +10,7 @@ author_profile: true
 
 Journal Papers:
 ------
-<details><summary>Journal Papers:</summary>
+## <details><summary>Journal Papers:</summary>
 (# equal contribution, * corresponding author)
 
 1、Yangsong Zhang, Erwei Yin, Fali Li, Yu Zhang, Daqing Guo, Dezhong Yao, Peng Xu.. Hierarchical feature fusion framework for frequency recognition in SSVEP-based BCIs. Neural Networks, 2019, accepted. 
