@@ -10,6 +10,7 @@ author_profile: true
 
 ## Journal Papers
 (# equal contribution, * corresponding author)
+https://scholar.google.com/citations?user=0m6nHjYAAAAJ&hl=zh-CN&oi=ao
 
 2019
 ------
@@ -59,9 +60,25 @@ author_profile: true
 
 1、Daqing Guo*，Mingming Chen, Matjaz Perc, Shengdun Wu, Chuan Xia, Yangsong Zhang, Peng Xu, Yang Xia, Dezhong Yao. Firing regulation of fast-spiking interneurons by autaptic inhibition. EPL, 2016, 114(3):30001. 
 
-Before 2015
+2015
 ------
+3、Yangsong Zhang，Daqing Guo*，Kaiwen Cheng，Dezhong Yao，Peng Xu*. The graph theoretical analysis of the SSVEP harmonic response networks. Cognitive Neurodynamics, 2015,9(3): 305-315.
 
+2、Yangsong Zhang, Benyuan Liu, Zhilin Zhang. Combining ensemble empirical mode decomposition with spectrum subtraction technique for heart rate monitoring using wrist-type photoplethysmography. Biomedical Signal Processing and Control, 2015, 21:119-125.
+
+1、Fali Li, Y Tian, Yangsong Zhang *, Kan Qiu, Chunyang Tian, Wei Jing, Tiejun Liu, Yang Xia，Daqing Guo, Dezhong Yao*, Peng Xu*. The enhanced information flow from visual cortex to frontal area facilitates SSVEP response: evidence from model-driven and data-driven causality analysis. Scientific Reports, 2015, 5:14765. 
+
+2012-2014
+------
+5、Yangsong Zhang, Peng Xu, Kaiwen Cheng, Dezhong Yao. Multivariate Synchronization Index for Frequency Recognition of SSVEP-based Brain-computer Interface. Journal of Neuroscience Methods, 2014, 221:32–40. 
+
+4、Yangsong Zhang, Li Dong, Rui Zhang, Dezhong Yao, Yu Zhang, and Peng Xu. An Efficient Frequency Recognition Method Based on Likelihood Ratio Test for SSVEP-Based BCI. Computational and Mathematical Methods in Medicine, 2014, doi:10.1155/ 2014/ 908719. 
+
+3、Yangsong Zhang, Peng Xu, Daqing Guo and Dezhong Yao. Prediction of SSVEP- based BCI Performance by the Resting EEG Network. Journal of Neural Engineering, 2013, 10(6): 66017.
+
+2、Yangsong Zhang, Peng Xu, Yingling Huang, Kaiwen Cheng, Dezhong Yao*. SSVEP Response Is Related to Functional Brain Network Topology Entrained by the Flickering Stimulus. PLoS ONE, 2013(a), 8(9): e72654.
+
+1、Yangsong Zhang, Peng Xu, Tiejun Liu, Jun Hu, Rui Zhang, Dezhong Yao.Multiple frequencies sequential coding for SSVEP-based brain-computer interface.PloS one, 2012,7(3), e29519.
 
 
 ## Conference Papers
