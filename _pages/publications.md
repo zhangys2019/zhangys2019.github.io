@@ -17,9 +17,9 @@ author_profile: true
 
 4、Tiejun Liu, Yangsong Zhang*, Lu Wang, Jianfu Li, Peng Xu, Dezhong Yao.Fusing canonical coefficients for Frequency recognition in SSVEP-based BCI. IEEE Access, 2019, 7, 52467 - 52472. 
 
-3、PeiYang Li, Huan Liu, Yajing Si, Cunbo Li, Fali Li, Xuyang Zhu, Xiaoye Huang, Ying Zeng, Dezhong Yao, Yangsong Zhang*, Peng Xu*. EEG based emotion recognition by combining functional connectivity network and local activations. IEEE Transactions on Biomedical Engineering, 2019, DOI: 10.1109/TBME.2019.2897651.
+3、PeiYang Li, Huan Liu, Yajing Si, Cunbo Li, Fali Li, Xuyang Zhu, Xiaoye Huang, Ying Zeng, Dezhong Yao, Yangsong Zhang*, Peng Xu*. EEG based emotion recognition by combining functional connectivity network and local activations. IEEE Transactions on Biomedical Engineering, 2019, DOI: 10.1109/TBME.2019.2897651. 
 
-2、Fali Li, Yi Liang, Luyan Zhang, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Yangsong Zhang, Dezhong Yao, Liang Yu, Peng Xu. Transition of brain networks from an interictal to a preictal state preceding a seizure revealed by scalp EEG network analysis. Cognitive Neurodynamics, 13: 175–181. 
+2、Fali Li, Yi Liang, Luyan Zhang, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Yangsong Zhang, Dezhong Yao, Liang Yu, Peng Xu*. Transition of brain networks from an interictal to a preictal state preceding a seizure revealed by scalp EEG network analysis. Cognitive Neurodynamics, 13: 175–181. 
 
 1、Shengdun Wu#, Yangsong Zhang#, YanCui, Heng Li, Jiakang Wang, Lijun Guo, Yang Xia, Dezhong Yao, Peng Xu, Daqing Guo*. Heterogeneity of synaptic input connectivity regulates spike-based neuronal avalanches. Neural Networks, 2019, 110, 91-103.
 
