@@ -17,7 +17,7 @@ Since 2015, he has been an Associate Professor with the School of Computer Scien
 
 NEWS
 ======
-1. Jule 8, 2019, One paper is accpeted by Neural Networks.
+1. Jule 8, 2019, Our paper has been accepted by Neural Networks.
 2. February 2019, I work as a Postdoctoral Fellow at NTU.
 
 
