@@ -7,7 +7,6 @@ redirect_from:
 ---
 ------
 
-
 ### Brain Computer Interfaces & Brain Machine Interfaces 
 (paradigm, algorithms, applications)
 
