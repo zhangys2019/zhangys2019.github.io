@@ -1,8 +1,8 @@
 ---
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
 ---
 
 Multiple frequencies sequential coding for SSVEP-based brain-computer interface
