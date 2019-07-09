@@ -12,9 +12,5 @@ redirect_from:
 - Dr YU Wenxin
 
 ### Graduate Student
-- CAI Huan, 2019-2022
-
-
-
-
+- CAI Huan, 2019-2022, Machine learning and Deep learning
 -
