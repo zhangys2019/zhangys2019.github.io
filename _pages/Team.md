@@ -14,5 +14,5 @@ redirect_from:
 ### Graduate Student
 
 - CAI Huan, 2019-2022
-  Research Interests: Machine learning and Deep learning
+  - Research Interests: Machine learning and Deep learning
 -
