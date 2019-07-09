@@ -44,7 +44,7 @@ author_profile: true
 
 3、Yu Zhang*, Guoxu Zhou, Jing Jin, Yangsong Zhang, Xingyu Wang and Andrzej Cichocki. Sparse Bayesian multiway canonical correlation analysis for EEG pattern recognition. Neurocomputing, 2017(b), 225:103-110.
 
-2、Daqing Guo*, Matjaz Perc*, Yangsong Zhang, Peng Xu, Dezhong Yao*. Frequency- difference-dependent stochastic resonance in neural systems. Physical Review E, 2017, 96 (2): 022415.
+2、Daqing Guo*, Matjaz Perc*, Yangsong Zhang, Peng Xu, Dezhong Yao*. Frequency-difference-dependent stochastic resonance in neural systems. Physical Review E, 2017, 96 (2): 022415.
 
 1、Daqing Guo*, Chuan Xia, Shengdun Wu, Tianjiao Zhang, Yangsong Zhang, Yang Xia, Dezhong Yao. Stochastic fluctuations of permittivity coupling regulate seizure dynamics in partial epilepsy, SCIENCE CHINA Technological Sciences, 2017, 60(7):995-1002. 
 
