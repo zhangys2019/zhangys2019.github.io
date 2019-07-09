@@ -25,7 +25,7 @@ author_profile: true
 ## 2018
 8、Yangsong Zhang, Erwei Yin, Fali Li, Yu Zhang, Toshihisa Tanaka, Qibin Zhao, Yan Cui, Peng Xu, Dezhong Yao, Daqing Guo*. Two-stage frequency recognition method based on correlated component analysis for SSVEP-based BCI. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(7): 1314-1323. 
 
-7、Fali Li, Chanlin Yi, Yuanling Jiang, Yuanyuan Liao, Yajing Si, Dezhong Yao, Yangsong Zhang* , Peng Xu* .The Construction of Large-Scale Cortical Networks for P300 From Scalp EEG. IEEE Access, 2018, 6, 68498-68506.
+7、Fali Li, Chanlin Yi, Yuanling Jiang, Yuanyuan Liao, Yajing Si, Dezhong Yao, Yangsong Zhang* , Peng Xu* . The Construction of Large-Scale Cortical Networks for P300 From Scalp EEG. IEEE Access, 2018, 6, 68498-68506.
 
 6、Yajing Si, Xi Wu, Fali Li, Luyan Zhang, Keyi Duan, Peiyang Li, Limeng Song, Yuanling Jiang, Tao Zhang, Yangsong Zhang, Jing Chen, Shan Gao, Bharat Biswal, Dezhong Yao, Peng Xu* . Different Decision-Making Responses Occupy Different Brain Networks for Information Processing: A Study Based on EEG and TMS. Cerebral Cortex, 2018, doi.org /10.1093/cercor/bhy294
 
