@@ -67,9 +67,9 @@ author_profile: true
 
 4、Yangsong Zhang, Li Dong, Rui Zhang, Dezhong Yao, Yu Zhang, and Peng Xu. An Efficient Frequency Recognition Method Based on Likelihood Ratio Test for SSVEP-Based BCI. Computational and Mathematical Methods in Medicine, 2014, doi:10.1155/ 2014/ 908719. 
 
-3、Yangsong Zhang, Peng Xu, Daqing Guo and Dezhong Yao. Prediction of SSVEP- based BCI Performance by the Resting EEG Network. Journal of Neural Engineering, 2013, 10(6): 66017.
+3、Yangsong Zhang, Peng Xu, Yingling Huang, Kaiwen Cheng, Dezhong Yao*. SSVEP Response Is Related to Functional Brain Network Topology Entrained by the Flickering Stimulus. PLoS ONE, 2013(a), 8(9): e72654.
 
-2、Yangsong Zhang, Peng Xu, Yingling Huang, Kaiwen Cheng, Dezhong Yao*. SSVEP Response Is Related to Functional Brain Network Topology Entrained by the Flickering Stimulus. PLoS ONE, 2013(a), 8(9): e72654.
+2、Yangsong Zhang, Peng Xu, Daqing Guo and Dezhong Yao. Prediction of SSVEP- based BCI Performance by the Resting EEG Network. Journal of Neural Engineering, 2013, 10(6): 66017.
 
 1、Yangsong Zhang, Peng Xu, Tiejun Liu, Jun Hu, Rui Zhang, Dezhong Yao.Multiple frequencies sequential coding for SSVEP-based brain-computer interface.PloS one, 2012,7(3), e29519.
 
