@@ -23,11 +23,11 @@ author_profile: true
 1、Shengdun Wu#, Yangsong Zhang#, YanCui, Heng Li, Jiakang Wang, Lijun Guo, Yang Xia, Dezhong Yao, Peng Xu, Daqing Guo*. Heterogeneity of synaptic input connectivity regulates spike-based neuronal avalanches. Neural Networks, 2019, 110, 91-103.
 
 ## 2018
-8、Yangsong Zhang#, Erwei Yin#, Fali Li, Yu Zhang, Toshihisa Tanaka, Qibin Zhao, Yan Cui, Peng Xu, Dezhong Yao, Daqing Guo*. Two-stage frequency recognition method based on correlated component analysis for SSVEP-based BCI. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(7): 1314-1323. 
+8、Yangsong Zhang, Erwei Yin, Fali Li, Yu Zhang, Toshihisa Tanaka, Qibin Zhao, Yan Cui, Peng Xu, Dezhong Yao, Daqing Guo*. Two-stage frequency recognition method based on correlated component analysis for SSVEP-based BCI. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(7): 1314-1323. 
 
 7、Fali Li, Chanlin Yi, Yuanling Jiang, Yuanyuan Liao, Yajing Si, Dezhong Yao, Yangsong Zhang*, Peng Xu*.The Construction of Large-Scale Cortical Networks for P300 From Scalp EEG. IEEE Access, 2018, 6, 68498-68506.
 
-6、Yajing Si, Xi Wu, Fali Li, Luyan Zhang, Keyi Duan, Peiyang Li, Limeng Song, Yuanling Jiang, Tao Zhang, Yangsong Zhang, Jing Chen, Shan Gao, Bharat Biswal, Dezhong Yao, Peng Xu. Different Decision-Making Responses Occupy Different Brain Networks for Information Processing: A Study Based on EEG and TMS. Cerebral Cortex, 2018, doi.org /10.1093/cercor/bhy294
+6、Yajing Si, Xi Wu, Fali Li, Luyan Zhang, Keyi Duan, Peiyang Li, Limeng Song, Yuanling Jiang, Tao Zhang, Yangsong Zhang, Jing Chen, Shan Gao, Bharat Biswal, Dezhong Yao, Peng Xu*. Different Decision-Making Responses Occupy Different Brain Networks for Information Processing: A Study Based on EEG and TMS. Cerebral Cortex, 2018, doi.org /10.1093/cercor/bhy294
 
 5、Fali Li, Fei Wang, Luyan Zhang, Tao Zhang, Rui Zhang, Limeng Song, He Li, Yi Jiang, Yin Tian, Yangsong Zhang, Dezhong Yao, and Peng Xu*. The Dynamic Brain Networks of Motor Imagery: Time-Varying Causality Analysis of Scalp EEG. International Journal of Neural Systems, 2018, doi.org/10.1142/S0129065718500168.
 
@@ -58,20 +58,20 @@ author_profile: true
 ## 2015
 3、Yangsong Zhang，Daqing Guo*, Kaiwen Cheng，Dezhong Yao，Peng Xu*. The graph theoretical analysis of the SSVEP harmonic response networks. Cognitive Neurodynamics, 2015,9(3): 305-315.
 
-2、Yangsong Zhang, Benyuan Liu, Zhilin Zhang. Combining ensemble empirical mode decomposition with spectrum subtraction technique for heart rate monitoring using wrist-type photoplethysmography. Biomedical Signal Processing and Control, 2015, 21:119-125.
+2、Yangsong Zhang, Benyuan Liu, Zhilin Zhang*. Combining ensemble empirical mode decomposition with spectrum subtraction technique for heart rate monitoring using wrist-type photoplethysmography. Biomedical Signal Processing and Control, 2015, 21:119-125.
 
 1、Fali Li, Y Tian, Yangsong Zhang*, Kan Qiu, Chunyang Tian, Wei Jing, Tiejun Liu, Yang Xia，Daqing Guo, Dezhong Yao*, Peng Xu*. The enhanced information flow from visual cortex to frontal area facilitates SSVEP response: evidence from model-driven and data-driven causality analysis. Scientific Reports, 2015, 5:14765. 
 
 ## 2012-2014
-5、Yangsong Zhang, Peng Xu, Kaiwen Cheng, Dezhong Yao. Multivariate Synchronization Index for Frequency Recognition of SSVEP-based Brain-computer Interface. Journal of Neuroscience Methods, 2014, 221:32–40. 
+5、Yangsong Zhang, Peng Xu, Kaiwen Cheng, Dezhong Yao*. Multivariate Synchronization Index for Frequency Recognition of SSVEP-based Brain-computer Interface. Journal of Neuroscience Methods, 2014, 221:32–40. 
 
-4、Yangsong Zhang, Li Dong, Rui Zhang, Dezhong Yao, Yu Zhang, and Peng Xu. An Efficient Frequency Recognition Method Based on Likelihood Ratio Test for SSVEP-Based BCI. Computational and Mathematical Methods in Medicine, 2014, doi:10.1155/ 2014/ 908719. 
+4、Yangsong Zhang, Li Dong, Rui Zhang, Dezhong Yao, Yu Zhang, and Peng Xu*. An Efficient Frequency Recognition Method Based on Likelihood Ratio Test for SSVEP-Based BCI. Computational and Mathematical Methods in Medicine, 2014, doi:10.1155/ 2014/ 908719. 
 
 3、Yangsong Zhang, Peng Xu, Yingling Huang, Kaiwen Cheng, Dezhong Yao*. SSVEP Response Is Related to Functional Brain Network Topology Entrained by the Flickering Stimulus. PLoS ONE, 2013(a), 8(9): e72654.
 
-2、Yangsong Zhang, Peng Xu, Daqing Guo and Dezhong Yao. Prediction of SSVEP- based BCI Performance by the Resting EEG Network. Journal of Neural Engineering, 2013, 10(6): 66017.
+2、Yangsong Zhang, Peng Xu, Daqing Guo and Dezhong Yao*. Prediction of SSVEP- based BCI Performance by the Resting EEG Network. Journal of Neural Engineering, 2013, 10(6): 66017.
 
-1、Yangsong Zhang, Peng Xu, Tiejun Liu, Jun Hu, Rui Zhang, Dezhong Yao.Multiple frequencies sequential coding for SSVEP-based brain-computer interface.PloS one, 2012,7(3), e29519.
+1、Yangsong Zhang, Peng Xu*, Tiejun Liu, Jun Hu, Rui Zhang, Dezhong Yao*. Multiple frequencies sequential coding for SSVEP-based brain-computer interface.PloS one, 2012,7(3), e29519.
 
 
 ## Conference Papers
