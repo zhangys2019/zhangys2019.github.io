@@ -21,7 +21,7 @@ His research interests are in the fields of  Machine learning and Deep learning,
 
 NEWS
 ======
-1. July 2019, Our paper has been accepted by Neural Networks.
+1. July 2019, Our paper has been accepted by Neural Networks (IF: 5.785).
 2. February 2019, I work as a Postdoctoral Fellow at NTU.
 
 
