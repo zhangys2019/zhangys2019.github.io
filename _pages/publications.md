@@ -71,7 +71,7 @@ author_profile: true
 
 2、Yangsong Zhang, Peng Xu, Daqing Guo and Dezhong Yao* . Prediction of SSVEP- based BCI Performance by the Resting EEG Network. Journal of Neural Engineering, 2013, 10(6): 66017.
 
-1、Yangsong Zhang, Peng Xu* , Tiejun Liu, Jun Hu, Rui Zhang, Dezhong Yao* . Multiple frequencies sequential coding for SSVEP-based brain-computer interface.PloS one, 2012,7(3), e29519.
+1、Yangsong Zhang, Peng Xu* , Tiejun Liu, Jun Hu, Rui Zhang, Dezhong Yao* . Multiple frequencies sequential coding for SSVEP-based brain-computer interface.PLoS ONE, 2012,7(3), e29519.
 
 
 ## Conference Papers
