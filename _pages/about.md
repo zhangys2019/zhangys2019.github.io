@@ -13,7 +13,7 @@ ZHANG Yangsong received the Ph.D. degree in signal and information processing fr
 
 From October 2016-October 2018, he was a Postdoctoral Fellow at School of Life Science and Technology, UESTC. Since February 2019, he have been working as a Postdoctoral Fellow at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore (Supervisors: [Prof. GUAN Cuntai](https://www.ntu.edu.sg/home/ctguan/), IEEE Fellow). 
 
-His research interests are in the fields of  Machine learning and Deep learning, brain–computer interface (BCI), Biomedical Signal Processing, and brain network analysis, etc.
+His research interests are in the fields of  Machine learning and Deep learning, Brain–computer interface (BCI), Biomedical Signal Processing, and Brain network analysis, etc.
              
 
 
