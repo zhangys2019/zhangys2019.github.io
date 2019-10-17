@@ -21,6 +21,7 @@ His research interests are in the fields of  Machine learning and Deep learning,
 
 NEWS
 ======
+5. October 2019, Our paper titled "Inter-subject P300 variability relates to the efficiency of brain networks reconfigured from resting- to task-state: Evidence from a simultaneous event-related EEG-fMRI study" has been accepted by NeuroImage.
 4. October 2019, our paper titled "Visual Evoked Response Modulation Occurs in a Complementary Manner Under Dynamic Circuit Framework" has been publised in IEEE TNSRE.
 3. August 2019, our paper titled "Progresses and prospects of brain electromagnetic imaging" has been accepted by SCIENTIA SINICA Vitae.
 2. July 2019, Our paper has been accepted by Neural Networks (IF: 5.785).
