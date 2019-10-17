@@ -12,6 +12,8 @@ author_profile: true
 (# equal contribution, * Corresponding author)
 
 ## 2019
+8、Fali Li, Qin Tao, Wenjing Peng, Tao Zhang, Yajing Si, Yangsong Zhang, Chanlin Yi, Bharat Biswal, Dezhong Yao, Peng Xu*. Inter-subject P300 variability relates to the efficiency of brain networks reconfigured from resting- to task-state: Evidence from a simultaneous event-related EEG-fMRI study. NeuroImage, 2019, Accepted.
+
 7、Zhuda Yang, Daqing Guo*, Yangsong Zhang, Shengdun Wu, and Dezhong Yao. Visual Evoked Response Modulation Occurs in a Complementary Manner Under Dynamic Circuit Framework. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(10): 2005-2014.
 
 6、张杨松, 卓彦, 尧德中. 脑电磁成像进展及展望. 中国科学: 生命科学, 2019. 
