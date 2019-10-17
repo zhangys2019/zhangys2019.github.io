@@ -12,11 +12,13 @@ author_profile: true
 (# equal contribution, * Corresponding author)
 
 ## 2019
-8、Fali Li, Qin Tao, Wenjing Peng, Tao Zhang, Yajing Si, Yangsong Zhang, Chanlin Yi, Bharat Biswal, Dezhong Yao, Peng Xu*. Inter-subject P300 variability relates to the efficiency of brain networks reconfigured from resting- to task-state: Evidence from a simultaneous event-related EEG-fMRI study. NeuroImage, 2019, Accepted.
+9、Fali Li, Qin Tao, Wenjing Peng, Tao Zhang, Yajing Si, Yangsong Zhang, Chanlin Yi, Bharat Biswal, Dezhong Yao, Peng Xu*. Inter-subject P300 variability relates to the efficiency of brain networks reconfigured from resting- to task-state: Evidence from a simultaneous event-related EEG-fMRI study. NeuroImage, 2019, Accepted.
 
-7、Zhuda Yang, Daqing Guo*, Yangsong Zhang, Shengdun Wu, and Dezhong Yao. Visual Evoked Response Modulation Occurs in a Complementary Manner Under Dynamic Circuit Framework. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(10): 2005-2014.
+8、Zhuda Yang, Daqing Guo*, Yangsong Zhang, Shengdun Wu, and Dezhong Yao. Visual Evoked Response Modulation Occurs in a Complementary Manner Under Dynamic Circuit Framework. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(10): 2005-2014.
 
-6、张杨松, 卓彦, 尧德中. 脑电磁成像进展及展望. 中国科学: 生命科学, 2019. 
+7、张杨松, 卓彦, 尧德中. 脑电磁成像进展及展望. 中国科学: 生命科学, 2019. 
+
+6、Yajing Si, Xi Wu, Fali Li, Luyan Zhang, Keyi Duan, Peiyang Li, Limeng Song, Yuanling Jiang, Tao Zhang, Yangsong Zhang, Jing Chen, Shan Gao, Bharat Biswal, Dezhong Yao, Peng Xu* . Different Decision-Making Responses Occupy Different Brain Networks for Information Processing: A Study Based on EEG and TMS. Cerebral Cortex, 2019, 29(10):4119–4129.
 
 5、Yangsong Zhang, Erwei Yin* , Fali Li, Yu Zhang, Daqing Guo, Dezhong Yao, Peng Xu* . Hierarchical feature fusion framework for frequency recognition in SSVEP-based BCIs. Neural Networks, 2019, 119:1-9. 
 
@@ -29,11 +31,9 @@ author_profile: true
 1、Shengdun Wu#, Yangsong Zhang#, YanCui, Heng Li, Jiakang Wang, Lijun Guo, Yang Xia, Dezhong Yao, Peng Xu, Daqing Guo*. Heterogeneity of synaptic input connectivity regulates spike-based neuronal avalanches. Neural Networks, 2019, 110, 91-103.
 
 ## 2018
-8、Yangsong Zhang, Erwei Yin, Fali Li, Yu Zhang, Toshihisa Tanaka, Qibin Zhao, Yan Cui, Peng Xu, Dezhong Yao, Daqing Guo*. Two-stage frequency recognition method based on correlated component analysis for SSVEP-based BCI. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(7): 1314-1323. 
+7、Yangsong Zhang, Erwei Yin, Fali Li, Yu Zhang, Toshihisa Tanaka, Qibin Zhao, Yan Cui, Peng Xu, Dezhong Yao, Daqing Guo*. Two-stage frequency recognition method based on correlated component analysis for SSVEP-based BCI. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(7): 1314-1323. 
 
-7、Fali Li, Chanlin Yi, Yuanling Jiang, Yuanyuan Liao, Yajing Si, Dezhong Yao, Yangsong Zhang* , Peng Xu* . The Construction of Large-Scale Cortical Networks for P300 From Scalp EEG. IEEE Access, 2018, 6, 68498-68506.
-
-6、Yajing Si, Xi Wu, Fali Li, Luyan Zhang, Keyi Duan, Peiyang Li, Limeng Song, Yuanling Jiang, Tao Zhang, Yangsong Zhang, Jing Chen, Shan Gao, Bharat Biswal, Dezhong Yao, Peng Xu* . Different Decision-Making Responses Occupy Different Brain Networks for Information Processing: A Study Based on EEG and TMS. Cerebral Cortex, 2018, doi.org /10.1093/cercor/bhy294
+6、Fali Li, Chanlin Yi, Yuanling Jiang, Yuanyuan Liao, Yajing Si, Dezhong Yao, Yangsong Zhang* , Peng Xu* . The Construction of Large-Scale Cortical Networks for P300 From Scalp EEG. IEEE Access, 2018, 6, 68498-68506.
 
 5、Fali Li, Fei Wang, Luyan Zhang, Tao Zhang, Rui Zhang, Limeng Song, He Li, Yi Jiang, Yin Tian, Yangsong Zhang, Dezhong Yao, and Peng Xu*. The Dynamic Brain Networks of Motor Imagery: Time-Varying Causality Analysis of Scalp EEG. International Journal of Neural Systems, 2018, doi.org/10.1142/S0129065718500168.
 
