@@ -12,6 +12,10 @@ author_profile: true
 (# equal contribution, * Corresponding author)
 
 ## 2019
+7、Zhuda Yang, Daqing Guo*, Yangsong Zhang, Shengdun Wu, and Dezhong Yao. Visual Evoked Response Modulation Occurs in a Complementary Manner Under Dynamic Circuit Framework. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(10): 2005-2014.
+
+6、张杨松, 卓彦, 尧德中. 脑电磁成像进展及展望. 中国科学: 生命科学, 2019. 
+
 5、Yangsong Zhang, Erwei Yin* , Fali Li, Yu Zhang, Daqing Guo, Dezhong Yao, Peng Xu* . Hierarchical feature fusion framework for frequency recognition in SSVEP-based BCIs. Neural Networks, 2019, 119:1-9. 
 
 4、Tiejun Liu, Yangsong Zhang* , Lu Wang, Jianfu Li, Peng Xu* , Dezhong Yao.Fusing canonical coefficients for Frequency recognition in SSVEP-based BCI. IEEE Access, 2019, 7, 52467-52472. 
