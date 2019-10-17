@@ -18,7 +18,7 @@ redirect_from:
 -
 
 ### Undergraduate Student
--Luo Yiqian，2018-2022, Majar: Computer Science and Technology
+- Luo Yiqian，2018-2022, Majar: Computer Science and Technology
   Research interests: Machine learning and Deep learning
  
 - Wang Jie, 2018-2022, Majar: Software Engineering
