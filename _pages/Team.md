@@ -9,13 +9,17 @@ redirect_from:
 
 ### Faculty
 - Dr ZHANG Yangsong
+
 - Dr YU Wenxin
 
 ### Graduate Student
 
 - CAI Huan, 2019-2022
   Research Interests: Machine learning and Deep learning
--
+
+- NIE Li, 2020-2023
+  Research Interests: Medical image processing and Deep learning
+
 
 ### Undergraduate Student
 - Luo Yiqian，2018-2022, Majar: Computer Science and Technology
