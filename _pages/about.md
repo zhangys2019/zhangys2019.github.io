@@ -13,7 +13,7 @@ ZHANG Yangsong received the Ph.D. degree in signal and information processing fr
 
 From October 2016 to January 2019, he was a Postdoctoral Fellow at School of Life Science and Technology, UESTC(Supervisors: [Prof. Dezhong Yao](http://www.neuro.uestc.edu.cn/bci/member/yao/yao.html)). From February 2019 to October 2019, he worked as a Postdoctoral Fellow at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore (Supervisors: [Prof. Cuntai GUAN](https://www.ntu.edu.sg/home/ctguan/), IEEE Fellow). 
 
-He is currently an associate Professor at the School of Computer Science and Technology, Southwest University of Science and Technology, China. His research interests are in the fields of  Machine learning and Deep learning, Brain–computer interface (BCI), Medical Image Processing, Biomedical Signal Processing, and Brain network analysis, etc.
+He is currently an associate Professor at the School of Computer Science and Technology, Southwest University of Science and Technology, China. His research interests include Machine learning and Deep learning, Brain–computer interface (BCI), Medical Image Processing, Biomedical Signal Processing, and Brain network analysis, etc.
              
 
 
