@@ -14,7 +14,7 @@ author_profile: true
 ## 2020
 5、Cunbo Li, Peiyang Li, Yangsong Zhang, Ning Li, Yajing Si, Fali Li, Dezhong Yao, Peng Xu*. Hierarchical emotion-recognition framework based on discriminative brain neural network topology and ensemble co-decision strategy. arXiv preprint arXiv:2002.10804，2020.
 
-4、Fali Li, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Limeng Song, Tao Zhang, Dezhong Yao, Yangsong Zhang*, Zehong Cao, Peng Xu*. Reconfiguration of Brain Network between Rest-ing-state and P300 task. IEEE Transactions on Cognitive and Developmental Systems, 2020, in presss.
+4、Fali Li, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Limeng Song, Tao Zhang, Dezhong Yao, Yangsong Zhang* , Zehong Cao, Peng Xu* . Reconfiguration of Brain Network between Rest-ing-state and P300 task. IEEE Transactions on Cognitive and Developmental Systems, 2020, in presss.
 
 3、Yajing Si, Fali Li, Keyi Duan, Qin Tao, Cunbo Li, Zehong Cao, Yangsong Zhang, Bharat Biswal, Peiyang Li, Dezhong Yao, Peng Xu*. Predicting individual decision-making responses based on single-trial EEG. NeuroImage, 2020, 206:116333.
 
