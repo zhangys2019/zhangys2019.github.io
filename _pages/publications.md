@@ -12,6 +12,10 @@ author_profile: true
 (# equal contribution, * Corresponding author)
 
 ## 2020
+7、Dezhong Yao*, Yangsong Zhang, Tiejun Liu, Peng Xu, Diankun Gong, Jing Lu, Yang Xia, Cheng Luo, Daqing Guo, Li Dong, Yongxiu Lai, Ke Chen, Jianfu Li. Bacomics: a comprehensive cross area originating in the studies of various brain–apparatus conversations. Cognitive Neurodynamics, 2020, in press.
+
+6、Aung Aung Phyo Wai, Yangsong Zhang, Heng Guo, Ying Chi, Lei Zhang, Xian-Sheng Hua, Seong Whan Lee, Cuntai Guan*. Towards a Fast Steady-State Visual Evoked Potentials (SSVEP) Brain-Computer Interface (BCI). IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020, under revision.
+
 5、Cunbo Li, Peiyang Li, Yangsong Zhang, Ning Li, Yajing Si, Fali Li, Dezhong Yao, Peng Xu*. Hierarchical emotion-recognition framework based on discriminative brain neural network topology and ensemble co-decision strategy. arXiv preprint arXiv:2002.10804，2020.
 
 4、Fali Li, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Limeng Song, Tao Zhang, Dezhong Yao, Yangsong Zhang* , Zehong Cao, Peng Xu* . Reconfiguration of Brain Network between Rest-ing-state and P300 task. IEEE Transactions on Cognitive and Developmental Systems, 2020, in presss.
