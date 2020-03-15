@@ -15,7 +15,7 @@ From October 2016 to January 2019, he was a Postdoctoral Fellow at School of Lif
 
 He is currently an associate Professor at the School of Computer Science and Technology, Southwest University of Science and Technology, China. His research interests include Machine learning and Deep learning, Brain–computer interface (BCI), Medical Image Processing, Biomedical Signal Processing, and Brain network analysis, etc.
              
-
+Email: zhangys(AT)swust.edu.cn
 
 
 
