@@ -9,8 +9,7 @@ redirect_from:
 
 ### Faculty
 - Dr ZHANG Yangsong
-
-- Dr YU Wenxin
+- 
 
 ### Graduate Student
 
