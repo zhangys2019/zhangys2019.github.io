@@ -11,12 +11,21 @@ author_profile: true
 ## Journal Papers
 (# equal contribution, * Corresponding author)
 
-## 2019
-9、Fali Li, Qin Tao, Wenjing Peng, Tao Zhang, Yajing Si, Yangsong Zhang, Chanlin Yi, Bharat Biswal, Dezhong Yao, Peng Xu*. Inter-subject P300 variability relates to the efficiency of brain networks reconfigured from resting- to task-state: Evidence from a simultaneous event-related EEG-fMRI study. NeuroImage, 2019, Accepted.
+## 2020
+5、Cunbo Li, Peiyang Li, Yangsong Zhang, Ning Li, Yajing Si, Fali Li, Dezhong Yao, Peng Xu*. Hierarchical emotion-recognition framework based on discriminative brain neural network topology and ensemble co-decision strategy. arXiv preprint arXiv:2002.10804
 
+4、Fali Li, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Limeng Song, Tao Zhang, Dezhong Yao, Yangsong Zhang*, Zehong Cao, Peng Xu*.Reconfiguration of Brain Network between Rest-ing-state and P300 task. IEEE Transactions on Cognitive and Developmental Systems, 2020,in presss.
+
+3、Yajing Si, Fali Li, Keyi Duan, Qin Tao, Cunbo Li, Zehong Cao, Yangsong Zhang, Bharat Biswal, Peiyang Li, Dezhong Yao, Peng Xu*. Predicting individual decision-making responses based on single-trial EEG. NeuroImage, 2020, 206:116333.
+
+2、Peiyang Li, Xiaoye Huang, Xuyang Zhu, Cunbo Li, Huan Liu, Weiwei Zhou, Joyce Chelangat Bore, Tao Zhang, Yangsong Zhang, Dezhong Yao, Peng Xu*.Robust brain causality network construction based on Bayesian multivariate autoregression.Biomedical Signal Processing and Control, 2020, 58:101864.
+
+1、Fali Li, Qin Tao, Wenjing Peng, Tao Zhang, Yajing Si, Yangsong Zhang, Chanlin Yi, Bharat Biswal, Dezhong Yao, Peng Xu*. Inter-subject P300 variability relates to the efficiency of brain networks reconfigured from resting- to task-state: Evidence from a simultaneous event-related EEG-fMRI study. NeuroImage, 2020, 205:116285.
+
+## 2019
 8、Zhuda Yang, Daqing Guo*, Yangsong Zhang, Shengdun Wu, and Dezhong Yao. Visual Evoked Response Modulation Occurs in a Complementary Manner Under Dynamic Circuit Framework. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(10): 2005-2014.
 
-7、张杨松, 卓彦, 尧德中. 脑电磁成像进展及展望. 中国科学: 生命科学, 2019. 
+7、张杨松, 卓彦, 尧德中*. 脑电磁成像进展及展望. 中国科学: 生命科学, 2019. 
 
 6、Yajing Si, Xi Wu, Fali Li, Luyan Zhang, Keyi Duan, Peiyang Li, Limeng Song, Yuanling Jiang, Tao Zhang, Yangsong Zhang, Jing Chen, Shan Gao, Bharat Biswal, Dezhong Yao, Peng Xu* . Different Decision-Making Responses Occupy Different Brain Networks for Information Processing: A Study Based on EEG and TMS. Cerebral Cortex, 2019, 29(10):4119–4129.
 
