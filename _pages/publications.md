@@ -12,13 +12,13 @@ author_profile: true
 (# equal contribution, * Corresponding author)
 
 ## 2020
-5、Cunbo Li, Peiyang Li, Yangsong Zhang, Ning Li, Yajing Si, Fali Li, Dezhong Yao, Peng Xu*. Hierarchical emotion-recognition framework based on discriminative brain neural network topology and ensemble co-decision strategy. arXiv preprint arXiv:2002.10804
+5、Cunbo Li, Peiyang Li, Yangsong Zhang, Ning Li, Yajing Si, Fali Li, Dezhong Yao, Peng Xu*. Hierarchical emotion-recognition framework based on discriminative brain neural network topology and ensemble co-decision strategy. arXiv preprint arXiv:2002.10804，2020.
 
-4、Fali Li, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Limeng Song, Tao Zhang, Dezhong Yao, Yangsong Zhang*, Zehong Cao, Peng Xu*.Reconfiguration of Brain Network between Rest-ing-state and P300 task. IEEE Transactions on Cognitive and Developmental Systems, 2020,in presss.
+4、Fali Li, Chanlin Yi, Yuanyuan Liao, Yuanling Jiang, Yajing Si, Limeng Song, Tao Zhang, Dezhong Yao, Yangsong Zhang*, Zehong Cao, Peng Xu*. Reconfiguration of Brain Network between Rest-ing-state and P300 task. IEEE Transactions on Cognitive and Developmental Systems, 2020, in presss.
 
 3、Yajing Si, Fali Li, Keyi Duan, Qin Tao, Cunbo Li, Zehong Cao, Yangsong Zhang, Bharat Biswal, Peiyang Li, Dezhong Yao, Peng Xu*. Predicting individual decision-making responses based on single-trial EEG. NeuroImage, 2020, 206:116333.
 
-2、Peiyang Li, Xiaoye Huang, Xuyang Zhu, Cunbo Li, Huan Liu, Weiwei Zhou, Joyce Chelangat Bore, Tao Zhang, Yangsong Zhang, Dezhong Yao, Peng Xu*.Robust brain causality network construction based on Bayesian multivariate autoregression.Biomedical Signal Processing and Control, 2020, 58:101864.
+2、Peiyang Li, Xiaoye Huang, Xuyang Zhu, Cunbo Li, Huan Liu, Weiwei Zhou, Joyce Chelangat Bore, Tao Zhang, Yangsong Zhang, Dezhong Yao, Peng Xu*. Robust brain causality network construction based on Bayesian multivariate autoregression. Biomedical Signal Processing and Control, 2020, 58:101864.
 
 1、Fali Li, Qin Tao, Wenjing Peng, Tao Zhang, Yajing Si, Yangsong Zhang, Chanlin Yi, Bharat Biswal, Dezhong Yao, Peng Xu*. Inter-subject P300 variability relates to the efficiency of brain networks reconfigured from resting- to task-state: Evidence from a simultaneous event-related EEG-fMRI study. NeuroImage, 2020, 205:116285.
 
@@ -31,7 +31,7 @@ author_profile: true
 
 5、Yangsong Zhang, Erwei Yin* , Fali Li, Yu Zhang, Daqing Guo, Dezhong Yao, Peng Xu* . Hierarchical feature fusion framework for frequency recognition in SSVEP-based BCIs. Neural Networks, 2019, 119:1-9. 
 
-4、Tiejun Liu, Yangsong Zhang* , Lu Wang, Jianfu Li, Peng Xu* , Dezhong Yao.Fusing canonical coefficients for Frequency recognition in SSVEP-based BCI. IEEE Access, 2019, 7, 52467-52472. 
+4、Tiejun Liu, Yangsong Zhang* , Lu Wang, Jianfu Li, Peng Xu*, Dezhong Yao. Fusing canonical coefficients for Frequency recognition in SSVEP-based BCI. IEEE Access, 2019, 7, 52467-52472. 
 
 3、Peiyang Li, Huan Liu, Yajing Si, Cunbo Li, Fali Li, Xuyang Zhu, Xiaoye Huang, Ying Zeng, Dezhong Yao, Yangsong Zhang* , Peng Xu* . EEG based emotion recognition by combining functional connectivity network and local activations. IEEE Transactions on Biomedical Engineering, 2019, DOI: 10.1109/TBME.2019.2897651. 
 
